@@ -1,0 +1,32 @@
+body {
+  margin: 40px;
+  padding: 0;
+  background-color: black;
+
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  border: white solid 5px;
+  background-color: white;
+}
+
+.panel-main img,
+.mikrografies img {
+  width: 100%;
+  height: auto;
+}
+
+.mikrografies {
+  display: flex;
+  min-width: 100%;
+  min-height: 200px;
+  overflow-x: auto;
+}
+
+.mikrografies img {
+  min-width: 200px;
+  margin: 5px;
+}
+

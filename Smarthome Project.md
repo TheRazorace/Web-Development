@@ -4,7 +4,7 @@ This project is about an application meant to simulate a real smart home applica
 
 Application is written in HTML5, CSS, Javascript, using Node JS and express.js for backend as well as Bootstrap for frontend. The website is uploaded on Azure websites (currently offline).
 
-Project link: 
+Project link: https://drive.google.com/file/d/1Dv6Bgp8Bfs2ixDy_piW29se9-CRDm7i2/view?usp=sharing
 
 Project partner: Vaggelis Christoforos
 
